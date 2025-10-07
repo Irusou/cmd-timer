@@ -1,5 +1,5 @@
 ### Timer Written in GO ###
-A toy project to learn thhe go syntax, package management and dependencies
+A toy project to learn the Go syntax, package management and dependencies
 
 ### How to use ###
 <code>> git clone repository-url</code><br/>
